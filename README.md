@@ -1,6 +1,7 @@
 # **Newsletter Generator Application**
 
-!
+![Newsletter App Screenshot](images/Screenshot.png)
+
 This project is a **Streamlit-based** web application that allows users to generate newsletters by providing a topic. The application performs a series of tasks, such as searching the web for related articles, summarizing the content, and compiling the information into a professional newsletter format. This is useful for content creators, marketers, researchers, and anyone who needs automated newsletter creation.
 
 ## **Features**
